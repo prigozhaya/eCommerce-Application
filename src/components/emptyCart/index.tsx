@@ -1,8 +1,9 @@
 import { Link } from 'react-router-dom';
-import { StyledMenuLinkContainer } from '../navBar/style';
+
 import {
   StyledEmptyCartTitle,
   StyledEmptyCartWrapper,
+  StyledEmptyIconContainer,
   StyledMessageEmptyCart,
 } from './style';
 import BoySearchingSvg from '../../assets/boySearchingIcon';
@@ -14,9 +15,9 @@ export function EmptyCart() {
         It seems like your cart is empty
       </StyledEmptyCartTitle>
       <Link to="/catalog">
-        <StyledMenuLinkContainer>
+        <StyledEmptyIconContainer>
           <BoySearchingSvg />
-        </StyledMenuLinkContainer>
+        </StyledEmptyIconContainer>
       </Link>
       <StyledMessageEmptyCart>
         Click on Boy. He will help you find amazing things

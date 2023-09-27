@@ -24,3 +24,9 @@ export const StyledNotEmptyCart = styled.h2`
   text-align: center;
   text-transform: uppercase;
 `;
+
+export const StyledEmptyIconContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+`;
