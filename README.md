@@ -61,9 +61,10 @@ npm run prepare
 3.	vscode-styled-components
 4.	You may need to restart the editor after installation
 
- [![eslint](https://github.com/mamont79/eCommerce-Application/assets/43904197/eb61e39c-7d0f-4186-81d2-54f3e9bc7115)](https://eslint.org/)
- [![prettier](https://github.com/mamont79/eCommerce-Application/assets/43904197/1c5321f7-94da-4057-96a8-4bab068c5426)](https://prettier.io/)
- [![styled-components](https://github.com/mamont79/eCommerce-Application/assets/43904197/30e9fb67-4e6b-4c6f-b412-c5084ae15684)](https://styled-components.com/)
+[![eslint](https://github.com/prigozhaya/eCommerce-Application/assets/43904197/a22dee3b-813d-48ca-a650-9feb497dd47f)](https://eslint.org/)
+[![prettier](https://github.com/prigozhaya/eCommerce-Application/assets/43904197/11c9f7b0-719c-476d-875d-baa009fe0e79)](https://prettier.io/)
+[![styled-components](https://github.com/prigozhaya/eCommerce-Application/assets/43904197/ad3082e8-2cf5-468a-a650-90665689e5fd)](https://styled-components.com/)
+
 ----
 
 ## Usage
