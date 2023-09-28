@@ -1,10 +1,16 @@
 import LazzoneIconSvg from '../../assets/lazzoneIcon';
-import StyledFooterWrapper from './style';
+import { StyledFooter, StyledFooterText, StyledFooterWrapper } from './style';
 
 export default function Footer() {
   return (
     <StyledFooterWrapper>
-      <LazzoneIconSvg />
+      <StyledFooter>
+        <LazzoneIconSvg />
+        <div>
+          <StyledFooterText>© 2023</StyledFooterText>
+        </div>
+        <StyledFooterText>CyberDranic team</StyledFooterText>
+      </StyledFooter>
     </StyledFooterWrapper>
   );
 }
