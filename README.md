@@ -11,7 +11,9 @@ You can view the full version of the application here
 ![Снимок экрана 2023-09-27 113233](https://github.com/mamont79/eCommerce-Application/assets/43904197/55218832-acaa-464b-ac8f-616fea434305)
 
 
-https://github.com/prigozhaya/eCommerce-Application/assets/43904197/42fd6503-8b59-4ed5-afec-1ee630cddae5
+
+https://github.com/prigozhaya/eCommerce-Application/assets/43904197/88be987d-25e7-4667-a930-5597c3640212
+
 
 
 ----
