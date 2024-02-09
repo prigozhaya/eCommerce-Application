@@ -12,7 +12,8 @@ You can view the full version of the application here
 
 
 
-https://github.com/prigozhaya/eCommerce-Application/assets/43904197/88be987d-25e7-4667-a930-5597c3640212
+https://github.com/prigozhaya/eCommerce-Application/assets/43904197/3770168f-2cf1-4d19-9701-4b86b08364d5
+
 
 
 
